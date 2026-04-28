@@ -1,4 +1,4 @@
-# 🎯 Digital Queue Management System
+# 🎯 Digital Line Management System
 ## Enterprise-Grade Documentation & Deployment Guide
 
 ---
